@@ -2,7 +2,7 @@
   "name": "mbelatar/languageDetector",
   "type": "library",
   "description": "A language detection library for PHP.",
-  "keywords": ["language", "detection", "detect"],
+  "keywords": ["language", "detection", "detect" ,"auto language detection"],
   "homepage": "https://github.com/mbelatar/languagedetector",
   "license": "MIT",
   "minimum-stability": "stable",
