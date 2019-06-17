@@ -1,0 +1,87 @@
+«BSO» redirige aquí. Para otras acepciones, véase Orquesta Sinfónica de Baltimore.
+Banda sonora (soundtrack en inglés) hace referencia a la parte sonora de una proyección audiovisual, ya esté compuesta por diálogos, sonidos ambientales, música y cualquier otro tipo de sonido, sea real o sintético. Normalmente se asimila con la música en el cine, pero también puede utilizarse en cualquier otro producto audiovisual, como los videojuegos, los programas de televisión y los productos derivados.
+
+Habitualmente se entiende como banda sonora toda aquella música, tanto vocal como instrumental, que se emite conjuntamente con la película cinematográfica. Si bien en un principio se puede considerar la banda sonora como la música compuesta expresamente para una película, incluso en la época del cine mudo, lo cierto es que la banda sonora propiamente dicha nace con la aparición del cine sonoro.
+
+Los dos sistemas iniciales fueron el Vitaphone, creado por las compañías Bell Telephone y Western Electric en 1927, y más tarde el sistema Sistema Photophone, creado por las compañías RCA y General Electric, en 1928.
+
+La banda sonora de una película, en su sentido físico, puede ser de dos tipos: magnética u óptica. En el primer caso, una o varias bandas de grabación magnética discurren por los bordes de la tira de película. Al ser leídas estas líneas por un aparato en sincronía con la proyección, se generan los sonidos de manera similar a como lo haría un lector de casetes. En el caso de las bandas sonoras ópticas, se trata de zonas de oscuridad y luz en uno o dos lados de la cinta de la película. Las distintas intensidades de luz, se convierten luego en impulsos eléctricos creando el conjunto de la banda sonora.
+
+También se utilizan los sistemas de sonido digital, que actualmente comienzan a ser comunes en las proyecciones cinematográficas y que responden a los estándares de proyección digital 1080p, 2K, UHD, 4K y 8K, ya en vigor.
+Una banda sonora, por lo general, suele tener la siguiente estructura:
+
+Tema de entrada/inicio/cabecera. Suele ser el tema o canción que da comienzo a la película o serie para la que ha sido compuesta. Opening o Main Title, en inglés.
+Música de fondo/incidental. Son el conjunto de temas que representan el grueso de la composición dentro de una banda sonora. Pueden ser instrumentales o cantados (canciones). También puede haber canciones o temas de autores diferentes al que compuso en origen la obra musical (compositor); a una canción de ese tipo se le llama canción insertada.
+Tema de salida/cierre/final. Suele ser el tema o canción que suena junto con los créditos finales de la película o serie para la que ha sido compuesta.
+Leitmotiv. Recurso empleado para simbolizar una emoción, un objeto, un personaje o protagonista (Bond).
+Música de fondo o incidental: Conjunto de temas que se adaptan a la acción (cine de terror).
+Distintas intensidades de luz se convierten luego en impulsos eléctricos creando el conjunto de la banda sonora integrada en la película cinematográfica.
+
+La banda sonora magnética
+Una o varias bandas de grabación magnética discurren por los bordes de la tira de película cinematográfica.
+
+La banda sonora digital
+Los nuevos sistemas de reproducción de imágenes y sonidos digitales sobre una pantalla llevan a la utilización de distintos estándares de codificación para la reproducción del sonido. Entre ellos se puede citar los sistemas de reproducción de audio denominados MIDI, WAV, MP3, y OGG, entre otros.
+
+Funciones de la banda sonora
+La banda sonora forma parte integral del mensaje audiovisual y sirve generalmente para:
+
+-Remarcar las acciones
+
+-Transmitir información
+
+-Aumentar la sensación de realidad
+
+-Ayudar a transmitir emociones
+
+Tipos de sonido
+La banda sonora puede recoger dos tipos de sonido:
+
+•Directo
+Sonido tomado durante la grabación.
+
+Este tipo de sonido se utiliza fundamentalmente en las grabaciones no profesionales, en los documentales y en los proyectos de video experimental, artístico y doméstico. El propio hecho de que la grabación de sonido se efectúa sobre la grabación original de vídeo hace que durante el monraje el sonido aparezca fragmentado.
+
+•Grabado
+Todo aquel sonido que puede ser tomado antes, durante o después de la grabación de las imágenes.
+
+Esto incluye la grabación o "doblaje" de los diálogos de los personajes, bien por los mismos actores que interpretan los distintos papeles o bien por actores especializados en doblaje, sobre todo cuando los diálogos se traducen a otros idiomas.
+
+Se incluye en este apartado el sonido de los efectos especiales, elaborado normalmente durante la fase de post-producción del proyecto. Es el modo más habitual de añadir sonido a una producción audiovisual.
+
+El sonido grabado incluye también a la música, que es aquello que normalmente asimilamos con la banda sonora original (BSO) o música cinematográfica, compuesta expresamente para una película.
+
+Desde 1895 hasta 1927
+Los primeros intentos de incorporar la banda sonora a las películas se basaban en el funcionamiento a la par, con los problemas consiguientes, del proyector y un fonógrafo. En realidad, en muchas de las mejores salas de proyección ya existía el "acompañamiento musical", normalmente proporcionado por un piano o pianola. También se presentaban las películas o se narraban por alguien del propio local cinematográfico o por alguno de los actores o realizadores, en las proyecciones más destacadas. Si alguna cinta perdía interés por parte del público, se le animaba en ocasiones con números musicales o actuaciones de toda índole, antes, durante o después de la proyección.
+
+En 1896, a menos de un año de la presentación del aparato mudo, Edison patentó ya su Quinetófono, que combinaba la mecánica fílmica con la fonográfica. Desde los primeros momentos, como se relata anteriormente, la música era interpretada en directo ante la pantalla. Personas especializadas, entre ellas «el explicador», contaban lo que sucedía y mediante artilugios hacían los ruidos, viento, tempestades, trinos de pájaros y otros, que eran utilizados para una mejor comprensión del lenguaje de las imágenes mudas. El sonido aumenta la impresión de realidad. Dota al filme de continuidad sonora. Es un mecanismo para conseguir unidad.
+Otro avance significativo se dio con la creación del cronófono, con el que se consiguió una mejor sincronía entre las canciones que reproducía el fonógrafo y las imágenes, aunque aún tenía fallos muy apreciables en el sonido hablado. El sistema encarecía notablemente la producción cinematográfica y la guerra de 1914 paró casi totalmente su utilización.
+
+
+Otro avance significativo se dio con la creación del cronófono, con el que se consiguió una mejor sincronía entre las canciones que reproducía el fonógrafo y las imágenes, aunque aún tenía fallos muy apreciables en el sonido hablado. El sistema encarecía notablemente la producción fílmica y la guerra de 1914 paró casi totalmente su utilización.
+
+
+Investigaciones de las compañías estadounidenses General Electric y Western Electric, crean sistemas para poner sonido en la propia película, destacando en un principio el sistema Vitaphone que hizo que la Warner Bros saliera del bache en el que caía con el cine mudo. Así se crearon las primeras películas sonoras, con música pero sin habla. El propio El cantante de jazz (1927) (también citado como El cantor de jazz) no era hablado, sino "cantado". En el año siguiente se presentó Lights of New York (1928) que sí era totalmente sonora.
+
+Pero el verdadero avance en la creación de la banda sonora vino de la mano del Sistema Photophone, creado por las compañías RCA y General Electric, en 1928.
+
+Etapas en la evolución de la banda sonora
+Existen tres etapas fundamentales en la evolución de la banda sonora en el cine1​:
+
+Sinfonismo clásico (1930-1950)
+Piezas largas, concebidas para la película, carácter descriptivo o épico. Temas singulares.
+
+La música en el cine comienza realmente con la obra de aquellos europeos exiliados que llegan a Estados Unidos buscando trabajo, y lo consiguen en el naciente cine sonoro. Korngold, Steiner, Waxman, Tiomkin, Rózsa son nombres recordados en la historia del cine. ¿Qué sería de Robin Hood sin las fanfarrias de Korngold, o Scarlett O'Hara sin Steiner? De hecho, fue este último quien, siendo discípulo de Gustav Mahler en Viena, decidió transformar King Kong en una obra musical instrumental. Esta decisión, en conjunto con el productor, transformó la historia del cine, pues desde allí las BSO fueron de extrema importancia.
+
+El tema principal (1951-1971).
+Un tema domina toda la película, repitiéndose varias veces durante el metraje.
+
+Temas externos: Folcklore. Jazz. Rock.
+
+Aunque desde los años 60 la música del cine comenzó a funcionar como un fin comercial para vender discos (especialmente tras el éxito de los Beatles), la mayoría de las películas no dejaron de tener bandas sonoras «incidentales» que fueran complemento de la acción dramática. Así lo hicieron compositores que habían alcanzado sus obras maestras en los años anteriores, ahora realizando aportes interesantes, pero quizás menos valorados. Este es el caso de Bernstein, Raksin y sobre todo Bernard Herrmann, probablemente el gran genio de la música cinematográfica.
+
+Nuevo sinfonismo (1972-2019)
+Vuelta al sinfonismo clásico, con mezcla de contenidos.
+
+En los últimos 30 años algunos compositores de renombre le han dado nuevas valoraciones por parte del público a las bandas sonoras. Ejemplos de esto son John Williams, Jerry Goldsmith, Joe Hisaishi, Hans Zimmer, James Newton Howard, Danny Elfman, Basil Poledouris, James Horner, Vangelis, Nicola Piovani, o Ennio Morricone.
+Algunos discos aún siguen vendiéndose por millones, como El rey Escorpión y la canción de I Stand Alone de Godsmack, Chariots of Fire y Blade Runner de Vangelis, La pantera rosa de Henry Mancini.

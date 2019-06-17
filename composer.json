@@ -1,0 +1,33 @@
+{
+  "name": "mbelatar/languageDetector",
+  "type": "library",
+  "description": "A language detection library for PHP.",
+  "keywords": ["language", "detection", "detect"],
+  "homepage": "https://github.com/mbelatar/languagedetector",
+  "license": "MIT",
+  "minimum-stability": "stable",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Mohamed-yassine BELATAR",
+      "email": "e98@hotmail.fr"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "LanguageDetector\\": "src/LanguageDetector"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "LanguageDetector\\Tests\\": "tests"
+    }
+  },
+  "require": {
+    "php": "^7",
+    "ext-mbstring": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6"
+  }
+}

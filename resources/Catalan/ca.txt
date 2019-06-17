@@ -1,0 +1,74 @@
+Google Inc. és l'empresa propietària de la marca Google, el producte principal de la qual és el motor de recerca del mateix nom. Va ser fundada el 4 de setembre del 1998 per Larry Page i Sergey Brin, dos estudiants de doctorat en ciències de la computació de la Universitat de Stanford, que el gener de 1996 van aconseguir un cercador més eficaç anomenat Google, capaç de mostrar els resultats de la recerca en un ordre jeràrquic condicionat pel nombre de visites.[7]
+
+Tot i que el seu producte principal és el cercador, l'empresa ofereix també, entre altres serveis, un comparador de preus anomenat Google Product Search (abans conegut com a Froogle), un motor de cerca per a material emmagatzemat en discos locals (Google Desktop Search), un servei de correu electrònic anomenat Gmail, el seu propi mapamundi en 3D (Google Earth) o un servei de missatgeria instantània basat en Jabber/XMPP anomenat Hangouts.
+
+Google també té nous projectes com el PC de 100 dòlars,[8] un nou sistema operatiu,[9] Google Docs & Spreadsheets, col·laboració[10] i promoció d'aplicacions de programari lliure com Firefox,[11] instal·lació de diverses xarxes sense fils gratuïtes,[12] el desenvolupament d'un sistema de protocol obert de comunicació per veu[13] entre d'altres. A més, s'especula que està treballant en el desenvolupament d'un "Google Office"[14] i una xarxa global de fibra òptica.[15] També han fabricat una línia de mòbils els quals es venen a Google Play, aquest mòbils es diuen Nexus (Nexus One, Nexus 4, Nexus S).
+
+
+Vint Cerf, considerat un dels pares d'Internet, va ser contractat per Google l'any 2005. La companyia cotitza a la NASDAQ sota la clau GOOG.
+
+L'octubre de 2006, Google va adquirir, per 1.650 milions de dòlars, a la famosa pàgina de vídeos YouTube;[16] i l'abril de 2007, DoubleClick,[17] una empresa especialitzada en publicitat a Internet, per 3.100 milions de dòlars. Això va fer que aquest mateix mes d'aquesta adquisició, Google es convertís en la marca més valuosa del món, arribant a la suma de 66.000 milions de dòlars, i superant a empreses com Microsoft, General Electric i Coca-Cola.
+
+El juliol de 2007, Google comprà Panoramio, un lloc web dedicat a exhibir les fotografies que els mateixos usuaris creen i geoposicionen, essent algunes d'elles pujades perquè puguin ser vistes a través de Google Earth.
+
+El mateix mes comprà Android de manera discreta.[18]
+
+L'any 2008 fou guardonat amb el Premi Príncep d'Astúries de Comunicació i Humanitats al considerar que "Google ha fet possible, en tot just una dècada, una gegantina revolució cultural i ha propiciat l'accés generalitzat al coneixement. D'aquesta manera, Google contribueix de manera decisiva al progrés dels pobles, per sobre de fronteres ideològiques, econòmiques, lingüístiques o racials".[19]
+
+L'any 2010 adquirí Metaweb, afegint la tecnologia de les seues bases de dades per a augmentar la qualitat dels resultats a Google search.[20]
+
+L'any 2014 comprà Quest Visual i l'app que és d'aquesta empresa, Word Lens. Els treballadors de Quest Visual passen a treballar al servei de Google Translate.[21]
+
+L'any 2016, adquirí l'empresa Eyefluence, la qual desenvolupa tecnologia de seguiment d'ulls aplicada a la realitat virtual.[22]
+
+El 2018 va eixir a la llum que Google col·laborava amb el Departament de Defensa dels Estats Units en el Projecte Maven (un projecte per a ús militar), cosa que li va donar molt mala imatge a l'empresa. Davant la reacció negativa, Google cancel·là la seua col·laboració amb el projecte prop de principis de juny d'eixe any.[23]
+El Google, és el motor de cerca actual internet més gran i usat. Ofereix una forma ràpida i senzilla de trobar informació en la web, amb accés a un índex de més de 8.168 milions de pàgines web. Segons la companyia, actualment el Google respon a més de 200 milions de consultes al dia.
+
+El nom Google és un joc de paraules de googol, referit al nombre que representa el 10 elevat a la 100[26] (terme que va ser improvisat pel nebot d'Edward Krasner i Milton Sirotta, el 1938) i goggles ("ulleres", en anglès). Va ser votada com la marca de l'any 2003, segons l'agència britànica de marques Interbrand.
+
+Hi ha també un motor de cerques per a imatges, grups de notícies i directori. La tècnica que permet situar una pàgina en una bona posició d'un cercador és el posicionament Web (conegut també com a PageRank) patentat per Google.
+
+Existeix un lloc de notícies per a Alemanya, Argentina, Austràlia, Canadà, Xile, Espanya, Estats Units, França, Índia, Itàlia, Japó, Mèxic, Nova Zelanda i Regne Unit.
+
+A més dels llocs locals de cada país existeix la Pàgina Principal Personalitzada de Google en la que a més del clàssic cercador s'hi poden agregar enllaços, notícies temàtiques, i fer una ullada a la safata d'entrada del Gmail.
+
+En arribar a la pàgina principal del cercador destaca la simplicitat de la seva interfície, on es pot distingir principalment el seu logotip (canviant segons diversos esdeveniments de diferent índole que puguin ser rellevants) les diferents categories, el quadre, els botons i l'àmbit de la recerca, a més d'un petit menú d'opcions.
+
+El botó Segur que tinc sort directament ens remet al primer resultat, útil quan se cerquen coses molt populars (Microsoft, Renault, Google, etc.) i un botó Cerca Avançada que ens permet concretar les cerques sense necessitat de conèixer tots els operadors que ofereix Google.
+
+Darrere de la senzillesa de la interfície principal de Google s'hi troba un complex intèrpret capaç de concretar les cerques.
+
+Cerques i operadors simples
+Ús de cometes: pot especificar al motor de Google que es desitja cercar una expressió composta de dues o més paraules literalment, escrivint els termes a cercar entre cometes.
+"cotxes d'ocasió" cerca tots els llocs que continguin l'expressió cotxes d'ocasió textualment.
+AND: de forma predeterminada Google es llança a la cerca de resultats unint les paraules introduïdes per l'usuari utilitzant aquest operador. Així el resultat final d'una cerca sense especificar res o utilitzant l'operador AND seran els resultats que continguin alhora la llista de paraules especificada.
+Les cerques cotxes AND ocasió o cotxes ocasió obtindran els mateixos resultats, una llista dels llocs Web que continguin la paraula cotxes i la paraula ocasió.
+OR o símbol "|" : Si es desitja especificar que no és necessària l'aparició de les dues paraules en cada resultat de la cerca, si no cadascuna d'elles per separat, haurà d'especificar l'operador OR entre els termes que hagin de complir aquest criteri.[27]
+cotxes OR ocasió obtindrà com a resultat una llista dels llocs Web que continguin el terme cotxes o ocasió.
+L'operador – : permet excloure resultats de la cerca. Cal especificar-ho abans del terme a obviar perquè se cerquin els resultats que no continguin la paraula especificada.[27]
+cotxes –ocasió cerca els llocs web que continguin la paraula cotxe però no ocasió.
+Es poden assignar diferents àmbits als operadors delimitant-los amb parèntesis.
+(cotxes OR motos) AND ocasió cerca totes les webs que continguin la paraula cotxes o motos i amb qualsevol d'aquestes dues és indispensable que aparegui ocasió.
+Comandaments especials
+site:nomdellloc paraules per a cercar cerca només en aquest lloc.[28] Exemple
+site:ca.wikipedia.org matemàtiques cerques per a totes les pàgines que contenen la paraula "matemàtiques" dintre del web http://ca.wikipedia.org
+Es pot consultar un lloc fins i tot quan no funciona, fent clic a memòria clau.
+Directori
+El Google, també compta amb un directori, basat en l'Open Directory Project, actualment el major directori de pàgines web organitzat per humans.
+
+Manipulació dels resultats del Google
+Arran de la seva important posició de lideratge en el mercat, el Google és objectiu principal de l'anomenat spamming contra cercadors. En aquest sentit s'intenta posicionar la major quantitat possible de paraules de cerca entre els primers resultats. Aquestes paraules claus moltes vegades no tenen cap relació amb el contingut real de les pàgines. S'utilitzen tècniques com Pagines-Doorway, Page-Cloacking i Farm-Links o Granja de clics.
+
+Aquesta possibilitat va arribar per primera vegada a la llum pública en relació amb una Google bomb, que estava orientada al president dels Estats Units George W. Bush. La frase de cerca "miserable failure" (en català: "fracàs miserable") va ser enllaçada pels adversaris de Bush a la pàgina oficial amb la biografia de Bush a la Casa Blanca.
+
+Com a contrapartida, els partidaris de Bush van intentar fer el mateix contra Michael Moore (director del documental Fahrenheit 9/11). De manera que els dos primers llocs de la mateixa cerca varien freqüentment entre tots dos.
+
+Per a evitar l'abús, el Google canvia el seu algorisme amb freqüència. Els "spammers" per la seva banda continuen investigant i optimitzant les seves pàgines.
+La calculadora, és un sistema integrat al cercador del Google, a la barra de cerca es pot fer una multiplicació, suma, etcètera. Per exemple si es fa una cerca de "15*63", el Google retorna el resultat: 945. També dóna el resultat de funcions trigonomètriques com sin(pi/6) i cos(pi). També realitza conversions d'unitats (en anglès).
+
+A més, calcula el valor de "the answer to life, the universe, and everything" en homenatge a la novel·la Guia de l'Autoestopista Galàctic de Douglas Adams. Resposta del Google en fer-li la pregunta "answer to life the universe and everything".
+
+També és possible utilitzar la calculadora com a conversor de divises, per exemple, convertint 10 dòlars americans en pesos xilens. Això s'aconsegueix amb l'ordre: "10 usd to clp".
+
+Conversor de divises
+Servei integrat en el cercador que permet fer conversions entre diferents divises. Per exemple la cerca "25 USD to EUR" dóna com a resultat el valor actual de 25 dòlars americans en euros. El mateix sistema és aplicable a altres divises, emprant els codis corresponents.
